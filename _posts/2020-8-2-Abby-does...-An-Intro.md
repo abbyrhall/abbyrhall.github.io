@@ -1,4 +1,7 @@
-# Abby does... An Intro
+---
+layout: post
+title: Abby does... An Intro
+---
 
 Hello, my name is Abby Hall. I'm a student, athlete, cellist, and writer. I'm also curious. I'm perpetually in a cycle of seeking out new ways to improve my life: new organization methods, new study tips, new habits. Here on this blog, I want to document my journey so I can look back at this and be proud of how far I've come (and cringe). Hopefully, you guys can get some value out of it too.
 
