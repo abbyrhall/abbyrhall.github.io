@@ -1,10 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Abby Hall. I'm a student, athlete, cellist, and writer. I'm also curious. I'm perpetually in a cycle of seeking out new ways to improve my life: new organization methods, new study tips, new habits. Here on this blog, I want to document my journey so I can look back at this and be proud of how far I've come (and cringe). Hopefully, you guys can get some value out of it too.
+
+Here's a list of some of the things I want to talk about:
+
+- Building new habits
+- Organization
+- Productivity
+- Relaxation
+- Self-improvement
+- Failures
+
+Indubitably, I will share more than what I've listed, but this is a general idea. I'm on a never-ending, relentless fight to better my life and learn about myself. Whether it be for reliability, motivation, or useful tips, I hope you accompany me for this wild ride.
 
 ### More Information
 
@@ -12,4 +23,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hi@abbydoes.com](mailto:hi@abbydoes.com)
